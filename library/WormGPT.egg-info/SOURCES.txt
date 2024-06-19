@@ -1,0 +1,6 @@
+LICENSE.txt
+setup.py
+WormGPT.egg-info/PKG-INFO
+WormGPT.egg-info/SOURCES.txt
+WormGPT.egg-info/dependency_links.txt
+WormGPT.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: WormGPT
+Version: 0.0.1
+Summary: WormGPT API Using: api_key = "Your_api_from_openai"
+Home-page: https://mohamed-sarhan.netlify.app/
+Author: MohamedSarhan , BlackCrow
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE.txt
